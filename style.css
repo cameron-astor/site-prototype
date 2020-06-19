@@ -1,0 +1,22 @@
+#new-obj-form {
+    display: none;
+}
+
+.object {
+    border-radius: 1px;
+    border-color: black;
+    border-style: solid;
+    max-width: 300px;
+    min-width: 100px;
+    min-height: 100px;
+    background-color: aquamarine;
+    position: absolute;
+}
+
+.object-title {
+    font-weight: bold;    
+}
+
+.new-link-button {
+    width: 30px;
+}
